@@ -1,4 +1,4 @@
-# CSVCompare Performance Analyzer
+# CSV Compare Performance Analyzer
 
 A React application for comparing agent performance metrics across different time periods using CSV data and OpenAI's GPT for analysis.
 
@@ -21,8 +21,8 @@ A React application for comparing agent performance metrics across different tim
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/csvcompare.git
-    cd csvcompare
+    git clone https://github.com/casper12340/openai-analysis-template.git
+    cd openai-analysis-template
     ```
 
 2. **Install dependencies**:
